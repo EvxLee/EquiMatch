@@ -7,6 +7,8 @@ EquiMatch is a college matching platform designed to help underserved students f
 ### Mission
 To improve educational equity by empowering underserved students with data-driven college recommendations that consider their unique circumstances and preferences.
 
+### Video Demo
+Watch a Video Demo that goes over the project: [https://drive.google.com/file/d/1T-EeiXPMriqdnOKWC7DO_W0SjX7N0sjS/view?usp=sharing](url)
 ---
 
 ## Table of Contents
